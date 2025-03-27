@@ -1,0 +1,25 @@
+.music-player {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .controls {
+    display: flex;
+    align-items: center;
+  }
+  
+  .control-btn {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    font-size: 24px;
+    margin: 0 10px;
+  }
+  
+  .volume-control {
+    width: 100px;
+  }
+  
